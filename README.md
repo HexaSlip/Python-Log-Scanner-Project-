@@ -21,9 +21,9 @@ Alternatively, you can view the main script file [here](https://github.com/HexaS
   ` python3 --version.`
  3. Create a Virtual Environment: It is highly recommended to use a virtual environment to manage this project's dependencies. 
  4. Activate the Virtual Environment:
-   - on macOS and Linux:
+- on macOS and Linux:
      ` source venv/bin/activate`
-    - on Windows:
+- on Windows:
       `venv/Scripts/activate`
 5. Required Libraries: Install the necessary Python packages using pip.
 
